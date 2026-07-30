@@ -49,9 +49,22 @@ Soy un apasionado del mundo maker y la ingeniería. Me enfoco en conectar el mun
 ## ⭐ Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/anthonysalazarv/Generador_Senales_Cuadradas_Con_ESP32s3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonysalazarv&repo=Generador_Senales_Cuadradas_Con_ESP32s3&theme=dark" alt="Generador de Señales Cuadradas" />
-  </a>
+
+<table>
+  <tr>
+    <td width="500px" align="left">
+      <h3>⚡ Generador de Señales Cuadradas con ESP32-S3</h3>
+      <p>Firmware y control para generación precisa de señales cuadradas utilizando las capacidades de temporización del ESP32-S3.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+        <img src="https://img.shields.io/badge/PlatformIO-F58220?style=flat-square&logo=platformio&logoColor=white" />
+      </p>
+      <a href="https://github.com/anthonysalazarv/Generador_Senales_Cuadradas_Con_ESP32s3"><b>🔍 Ver Repositorio →</b></a>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
