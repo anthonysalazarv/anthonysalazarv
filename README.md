@@ -73,19 +73,10 @@ Soy un apasionado del mundo maker y la ingeniería. Me enfoco en conectar el mun
 
 <p align="center">
   <a href="https://github.com/anthonysalazarv">
-    <img src="https://github-readme-stats.vercel.app/api?username=anthonysalazarv&show_icons=true&theme=dark&include_all_commits=true" width="49%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anthonysalazarv&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="GitHub Stats" width="49%" />
   </a>
   <a href="https://github.com/anthonysalazarv">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day-time?username=anthonysalazarv&theme=dark" width="49%" alt="Commits por día" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anthonysalazarv">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages-per-repo?username=anthonysalazarv&theme=dark" width="49%" alt="Top Lenguajes por Repo" />
-  </a>
-  <a href="https://github.com/anthonysalazarv">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=anthonysalazarv&theme=dark" width="49%" alt="Top Lenguajes por Commit" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonysalazarv&layout=compact&theme=dark&hide_border=false&border_radius=10" alt="Top Lenguajes" width="49%" />
   </a>
 </p>
 
@@ -93,8 +84,8 @@ Soy un apasionado del mundo maker y la ingeniería. Me enfoco en conectar el mun
 
 ### 📬 ¡Contactame!
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/anthonysalazarv" target="_blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/anthony-salazar-96b963386" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:anthony.salazar.ing@gmail.com">
