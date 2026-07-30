@@ -67,16 +67,7 @@ Soy un apasionado del mundo maker y la ingeniería. Me enfoco en conectar el mun
 
 </div>
 
----
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <a href="https://github.com/anthonysalazarv">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonysalazarv&theme=dark&hide_border=false" alt="GitHub Streak" width="80%" />
-  </a>
-</p>
----
 
 ### 📬 ¡Contactame!
 
