@@ -73,13 +73,9 @@ Soy un apasionado del mundo maker y la ingeniería. Me enfoco en conectar el mun
 
 <p align="center">
   <a href="https://github.com/anthonysalazarv">
-    <img src="https://github-readme-stats.vercel.app/api?username=anthonysalazarv&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="GitHub Stats" width="49%" />
-  </a>
-  <a href="https://github.com/anthonysalazarv">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonysalazarv&layout=compact&theme=dark&hide_border=false&border_radius=10" alt="Top Lenguajes" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonysalazarv&theme=dark&hide_border=false" alt="GitHub Streak" width="80%" />
   </a>
 </p>
-
 ---
 
 ### 📬 ¡Contactame!
